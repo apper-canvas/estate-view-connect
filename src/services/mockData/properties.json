@@ -1,0 +1,172 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Downtown Loft",
+    "price": 850000,
+    "address": "123 Main Street, Downtown, NY 10001",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1200,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1484101403633-562f891dc89a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Stunning modern loft in the heart of downtown with floor-to-ceiling windows offering panoramic city views. This beautifully designed space features an open-concept layout with high-end finishes throughout.\n\nThe gourmet kitchen boasts stainless steel appliances, quartz countertops, and custom cabinetry. The master suite includes a walk-in closet and spa-like bathroom with a soaking tub.\n\nBuilding amenities include a fitness center, rooftop terrace, and 24-hour concierge service. Walking distance to restaurants, shopping, and public transportation.",
+    "features": [
+      "Floor-to-ceiling windows",
+      "Hardwood floors",
+      "Stainless steel appliances",
+      "In-unit washer/dryer",
+      "Central air conditioning",
+      "Rooftop terrace access",
+      "24-hour concierge",
+      "Fitness center",
+      "Storage unit included",
+      "Pet-friendly building"
+    ],
+    "latitude": 40.7589,
+    "longitude": -73.9851,
+    "yearBuilt": 2018,
+    "parking": "1 space",
+    "listingDate": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Charming Victorian House",
+    "price": 1250000,
+    "address": "456 Oak Avenue, Historic District, CA 94102",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2800,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Beautifully restored Victorian home in the prestigious Historic District. This elegant property combines classic architectural details with modern updates for comfortable contemporary living.\n\nThe spacious interior features original hardwood floors, decorative moldings, and period fixtures. The updated kitchen includes modern appliances while maintaining the home's historic character.\n\nThe private garden offers a peaceful retreat in the city, perfect for entertaining or quiet relaxation. Located on a tree-lined street within walking distance of parks, cafes, and boutique shopping.",
+    "features": [
+      "Original hardwood floors",
+      "Decorative crown molding",
+      "Updated kitchen",
+      "Private garden",
+      "Original stained glass",
+      "Clawfoot bathtub",
+      "Working fireplace",
+      "High ceilings",
+      "Period fixtures",
+      "Walk to parks"
+    ],
+    "latitude": 37.7849,
+    "longitude": -122.4094,
+    "yearBuilt": 1895,
+    "parking": "2 spaces",
+    "listingDate": "2024-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Luxury Waterfront Condo",
+    "price": 2100000,
+    "address": "789 Harbor View Drive, Waterfront, FL 33139",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFeet": 2200,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1616137466211-f939a420be84?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Exceptional luxury condominium with breathtaking water views from every room. This sophisticated residence features premium finishes and an open floor plan designed for elegant entertaining.\n\nThe gourmet kitchen showcases top-of-the-line appliances, marble countertops, and custom Italian cabinetry. The master suite opens to a private balcony overlooking the water.\n\nBuilding amenities include infinity pool, private marina, spa, and valet services. This is waterfront living at its finest in one of the city's most prestigious addresses.",
+    "features": [
+      "Panoramic water views",
+      "Italian marble floors",
+      "Premium appliances",
+      "Private balcony",
+      "Infinity pool",
+      "Private marina access",
+      "Valet parking",
+      "24-hour security",
+      "Spa facilities",
+      "Wine cellar"
+    ],
+    "latitude": 25.7617,
+    "longitude": -80.1918,
+    "yearBuilt": 2020,
+    "parking": "2 spaces",
+    "listingDate": "2024-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "title": "Contemporary Suburban Villa",
+    "price": 975000,
+    "address": "321 Pine Ridge Lane, Maple Heights, TX 75225",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "squareFeet": 3500,
+    "propertyType": "Villa",
+    "images": [
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Spectacular contemporary villa in the exclusive Maple Heights community. This impressive family home offers luxury living with modern amenities and sophisticated design throughout.\n\nThe open-concept design flows seamlessly from the great room to the gourmet kitchen and outdoor living areas. The master suite features a spa-like bathroom and private sitting area.\n\nThe resort-style backyard includes a swimming pool, outdoor kitchen, and mature landscaping. Located in a highly rated school district with easy access to shopping and dining.",
+    "features": [
+      "Open-concept design",
+      "Gourmet kitchen island",
+      "Master suite retreat",
+      "Swimming pool",
+      "Outdoor kitchen",
+      "Three-car garage",
+      "Smart home technology",
+      "Security system",
+      "Mature landscaping",
+      "Top-rated schools"
+    ],
+    "latitude": 32.7767,
+    "longitude": -96.7970,
+    "yearBuilt": 2019,
+    "parking": "3 spaces",
+    "listingDate": "2024-01-12T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "title": "Urban Townhouse Retreat",
+    "price": 720000,
+    "address": "567 Elm Street, Arts District, WA 98101",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 1800,
+    "propertyType": "Townhouse",
+    "images": [
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600566753151-384129cf4e3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600566752229-450c179e3532?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Stylish modern townhouse in the vibrant Arts District, perfectly positioned for urban living. This thoughtfully designed home combines comfort with contemporary style across three well-appointed levels.\n\nThe main level features an open living area with modern kitchen and dining space that flows to a private patio. Upstairs, the master bedroom includes an en-suite bathroom and walk-in closet.\n\nThe rooftop deck offers city views and outdoor entertaining space. Located steps from galleries, restaurants, and public transportation with easy access to downtown.",
+    "features": [
+      "Three-level living",
+      "Modern kitchen",
+      "Private patio",
+      "Rooftop deck",
+      "City views",
+      "Walk-in closets",
+      "Hardwood stairs",
+      "Energy efficient",
+      "Walk to transit",
+      "Arts district location"
+    ],
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "yearBuilt": 2021,
+    "parking": "1 space",
+    "listingDate": "2024-01-18T00:00:00.000Z"
+  }
+]
