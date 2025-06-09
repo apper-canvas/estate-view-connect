@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { ToastContainer } from 'react-toastify';
 import Layout from './components/Layout';
-import Home from './pages/Home';
+import HomePage from '@/components/pages/HomePage';
 import PropertyDetail from './pages/PropertyDetail';
 import MapView from './pages/MapView';
 import SavedProperties from './pages/SavedProperties';
@@ -13,8 +13,8 @@ function App() {
       <div className="min-h-screen bg-surface-50">
         <Routes>
           <Route path="/" element={<Layout />}>
-            <Route index element={<Home />} />
-            <Route path="/browse" element={<Home />} />
+<Route index element={<HomePage />} />
+            <Route path="/browse" element={<HomePage />} />
             <Route path="/property/:id" element={<PropertyDetail />} />
             <Route path="/map" element={<MapView />} />
             <Route path="/saved" element={<SavedProperties />} />
